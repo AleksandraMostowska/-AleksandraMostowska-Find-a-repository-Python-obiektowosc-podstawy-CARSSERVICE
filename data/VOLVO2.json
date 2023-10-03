@@ -1,0 +1,22 @@
+{
+  "model": "VOLVO",
+  "price": 115,
+  "mileage": 21000,
+  "engine": {
+    "type": "LPG",
+    "power": 190.0
+  },
+  "carBody": {
+    "color": "BLACK",
+    "type": "COMBI",
+    "components": [
+      "LED HEADLIGHTS",
+      "ALLOY WHEELS"
+    ]
+  },
+  "wheel": {
+    "type": "SUMMER",
+    "model": "GOODYEAR",
+    "size": 17
+  }
+}

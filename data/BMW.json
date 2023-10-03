@@ -1,0 +1,22 @@
+{
+  "model": "BMW",
+  "price": 135,
+  "mileage": 19000,
+  "engine": {
+    "type": "GASOLINE",
+    "power": 245.0
+  },
+  "carBody": {
+    "color": "GREEN",
+    "type": "SEDAN",
+    "components": [
+      "BLUETOOTH",
+      "BLIND SPOT MONITORING"
+    ]
+  },
+  "wheel": {
+    "type": "WINTER",
+    "model": "MICHELIN",
+    "size": 19
+  }
+}
